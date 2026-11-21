@@ -1,0 +1,3 @@
+name,device_type,host,password_env
+SW1,cisco_ios,192.168.10.2,SW_PASS
+R1,mikrotik_routeros,192.168.88.1,MT_PASS
